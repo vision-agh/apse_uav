@@ -13,7 +13,7 @@ Testing and evaluation of an automotive perception system is a complicated task 
 
 YouTube video:
 
-[![VIDEO ABSTRACT](http://img.youtube.com/vi/Lwd89vL1l4s/0.jpg)](http://www.youtube.com/watch?v=Lwd89vL1l4s)
+[![VIDEO ABSTRACT](http://img.youtube.com/vi/QA7v6006e9w/0.jpg)](http://www.youtube.com/watch?v=QA7v6006e9w)
 
 
 ### Citation

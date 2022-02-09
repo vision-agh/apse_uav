@@ -1,0 +1,6 @@
+datasets/
+pretrained/
+output/
+test_images/
+*.pkl
+.vscode/
